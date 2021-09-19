@@ -1,3 +1,9 @@
+Fave food:
 Boiled eggs
 Pancakes
 Fruit Salad
+
+Fave movies:
+Somemovie1
+Somemovie2
+Somemovie3
